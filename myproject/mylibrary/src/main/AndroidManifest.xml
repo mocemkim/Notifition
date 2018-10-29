@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mylibrary" >
+    <application >
+        <activity android:name=".SenderActivity">
+        </activity>
+        <activity android:name=".ShowDetail" ></activity>
+        <activity android:name=".ShowListNotification"></activity>
+    </application>
+</manifest>
+
+
+
+
+
